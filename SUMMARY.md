@@ -34,6 +34,9 @@
 * [灼伤](chang-jian-yi-wai/zhuo-shang.md)
 * [异物窒息](chang-jian-yi-wai/yi-wu-zhi-xi.md)
 * [鱼刺卡喉](chang-jian-yi-wai/yu-ci-qia-hou.md)
+* [溺水](chang-jian-yi-wai/ni-shui.md)
+* [冻伤](chang-jian-yi-wai/dong-shang.md)
+* [失温](chang-jian-yi-wai/shi-wen.md)
 
 ## 急救技能
 
