@@ -46,12 +46,7 @@
 
 * 鱼刺卡喉无需腹部冲击
 
-## 急救培训
+## 急救资源
 
-* [红十字初级救护员](ji-jiu-pei-xun/hong-shi-zi-chu-ji-jiu-hu-yuan.md)
-* [美国心脏协会心脏救护员](ji-jiu-pei-xun/mei-guo-xin-zang-xie-hui-xin-zang-jiu-hu-yuan.md)
-
-## 其他
-
-* 急救软件
+* [急救软件](ji-jiu-zi-yuan/ji-jiu-ruan-jian.md)
 
