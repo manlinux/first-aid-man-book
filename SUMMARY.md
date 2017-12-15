@@ -44,7 +44,7 @@
 
 ## 急救谣言
 
-* 鱼刺卡喉无需腹部冲击
+* [鱼刺卡喉无需腹部冲击](ji-jiu-yao-yan/yu-ci-qia-hou-wu-xu-fu-bu-chong-ji.md)
 
 ## 教育资源
 
