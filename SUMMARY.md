@@ -37,8 +37,13 @@
 
 ## 急救技能
 
-* [心肺复苏与除颤器](ji-jiu-ji-neng/xin-fei-fu-su-yu-chu-zhan-qi.md)
+* [拨打紧急医疗电话](ji-jiu-ji-neng/bo-da-jin-ji-yi-liao-dian-hua.md)
+* [洗手](ji-jiu-ji-neng/xi-shou.md)
 * [海姆力克腹部冲击法](ji-jiu-ji-neng/hai-mu-li-ke-fu-bu-chong-ji-fa.md)
+* [按压止血](ji-jiu-ji-neng/an-ya-zhi-xie.md)
+* [使用止血带](ji-jiu-ji-neng/shi-yong-zhi-xie-dai.md)
+* [心肺复苏CPR](ji-jiu-ji-neng/xin-fei-fu-su-cpr.md)
+* [自动体外除颤器AED](ji-jiu-ji-neng/zi-dong-ti-wai-chu-zhan-qi-aed.md)
 
 ## 急救误区
 
