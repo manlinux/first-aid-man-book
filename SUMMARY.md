@@ -7,8 +7,8 @@
 
 ## 急救基础
 
-* [如何认识急救](second-question.md)
-* [急救的必要性](ji-jiu-de-bi-yao-xing.md)
+* [认识急救](second-question.md)
+* [掌握急救的必要性](ji-jiu-de-bi-yao-xing.md)
 
 ## 常见急症
 
