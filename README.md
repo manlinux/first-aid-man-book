@@ -1,1 +1,14 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+一本每个珍爱生命的人都值得拥有的靠谱急救知识手册。
+
+爱自己，学急救，为家人，为身边人
+
+赤脚急救侠·微信公众号（chijiaopao）
+
+![](/assets/qrcode_chijiaopao.jpg)
+
+---
+
+本电子书目前还在完善更新中，如有问题，欢迎交流。
+
+
+
