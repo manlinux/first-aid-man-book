@@ -9,6 +9,8 @@
 
 * [认识急救](second-question.md)
 * [掌握急救的必要性](ji-jiu-de-bi-yao-xing.md)
+* 评估现场
+* 个人安全防护
 
 ## 常见急症
 
