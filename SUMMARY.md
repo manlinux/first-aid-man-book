@@ -35,7 +35,7 @@
 
 ## 急救技能
 
-* 心肺复苏与除颤器
+* [心肺复苏与除颤器](ji-jiu-ji-neng/xin-fei-fu-su-yu-chu-zhan-qi.md)
 * [海姆力克腹部冲击法](ji-jiu-ji-neng/hai-mu-li-ke-fu-bu-chong-ji-fa.md)
 
 ## 急救误区
