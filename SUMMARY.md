@@ -4,9 +4,11 @@
 
 * [前言](README.md)
 * [关于本手册](first-question.md)
-* [如何认识急救](second-question.md)
 
 ## 急救基础
+
+* [如何认识急救](second-question.md)
+* [急救的必要性](ji-jiu-de-bi-yao-xing.md)
 
 ## 常见急症
 
