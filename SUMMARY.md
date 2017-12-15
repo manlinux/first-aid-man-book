@@ -46,7 +46,7 @@
 
 * 鱼刺卡喉无需腹部冲击
 
-## 急救资源
+## 教育资源
 
-* [急救软件](ji-jiu-zi-yuan/ji-jiu-ruan-jian.md)
+* [急救软件](jiao-yu-zi-yuan/ji-jiu-ruan-jian.md)
 
