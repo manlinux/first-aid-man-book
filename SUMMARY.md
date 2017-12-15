@@ -40,6 +40,8 @@
 
 ## 急救误区
 
+* [120并非人人会拨打](ji-jiu-wu-qu/120bing-fei-ren-ren-hui-bo-da.md)
+
 ## 急救谣言
 
 ## 急救培训
