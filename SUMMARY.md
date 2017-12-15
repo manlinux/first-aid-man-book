@@ -44,7 +44,12 @@
 
 ## 急救谣言
 
+* 鱼刺卡喉无需腹部冲击
+
 ## 急救培训
+
+* [红十字初级救护员](ji-jiu-pei-xun/hong-shi-zi-chu-ji-jiu-hu-yuan.md)
+* [美国心脏协会心脏救护员](ji-jiu-pei-xun/mei-guo-xin-zang-xie-hui-xin-zang-jiu-hu-yuan.md)
 
 ## 其他
 
