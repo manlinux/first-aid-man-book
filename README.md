@@ -8,11 +8,9 @@
 
 ![](/assets/qrcode_chijiaopao.jpg)
 
-
-
 赞赏急救侠，支持本手册的维护工作：
 
-![](/assets/微信图片_20171216221207.jpg)
+![](/assets/dashang_20171216221207.jpg)
 
 ---
 
