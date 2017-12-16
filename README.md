@@ -10,7 +10,7 @@
 
 ---
 
-本电子书目前还在完善更新中，如有问题，欢迎交流。
+本电子书目前还在完善更新中，如有意见和建议，欢迎交流。
 
 本手册最新内容，请访问：[https://first-aid-man.gitbooks.io/first-aid-guideline-in-hands](https://first-aid-man.gitbooks.io/first-aid-guideline-in-hands)
 
