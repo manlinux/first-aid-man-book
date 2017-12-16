@@ -60,4 +60,5 @@
 
 * [急救软件](jiao-yu-zi-yuan/ji-jiu-ruan-jian.md)
 * [急救培训](jiao-yu-zi-yuan/ji-jiu-pei-xun.md)
+* [急救公众号](jiao-yu-zi-yuan/ji-jiu-gong-zhong-hao.md)
 
