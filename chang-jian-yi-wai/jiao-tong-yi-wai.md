@@ -14,8 +14,6 @@
 
 每年有大约将近25万人死于交通事故中。
 
-
-
 ---
 
 交通意外的主要原因，
@@ -28,7 +26,7 @@
 
 也造成很多不必要的伤亡。
 
-
+···
 
 除了确保车况良好，专心驾驶，做好安全防护，遵守交通法规，
 
@@ -45,8 +43,6 @@
 此时，
 
 帮助他人就是帮助自己。
-
-
 
 ---
 
@@ -74,8 +70,6 @@
 
 6.记录事故中人员的信息和相关照片，尤其是当自己发生交通意外时。
 
-
-
 ---
 
 确保冷静，
@@ -94,13 +88,11 @@
 
 你不是无敌的。
 
-
-
 ---
 
 参考：
 
-http://www.who.int/mediacentre/factsheets/fs358/zh/
+[http://www.who.int/mediacentre/factsheets/fs358/zh/](http://www.who.int/mediacentre/factsheets/fs358/zh/)
 
-http://www.ifrc.org/Global/Publications/Health/First-Aid-2016-Guidelines\_EN.pdf
+[http://www.ifrc.org/Global/Publications/Health/First-Aid-2016-Guidelines\_EN.pdf](http://www.ifrc.org/Global/Publications/Health/First-Aid-2016-Guidelines_EN.pdf)
 
