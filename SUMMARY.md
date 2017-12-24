@@ -37,6 +37,7 @@
 * [溺水](chang-jian-yi-wai/ni-shui.md)
 * [冻伤](chang-jian-yi-wai/dong-shang.md)
 * [失温](chang-jian-yi-wai/shi-wen.md)
+* [交通意外](chang-jian-yi-wai/jiao-tong-yi-wai.md)
 
 ## 急救技能
 
