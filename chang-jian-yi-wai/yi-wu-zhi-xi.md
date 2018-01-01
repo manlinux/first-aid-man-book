@@ -38,6 +38,8 @@
 
 ![](https://first-aid-man.gitbooks.io/pocket-book-abc/content/assets/11a_04.jpg)
 
+如果患者是婴儿，不适用腹部冲击法，应采取2跟手指按压胸部5次。
+
 任何接受过冲击手法的人，都应该让他们去医院就医。
 
 ---
