@@ -14,6 +14,7 @@
 * [评估现场](ping-gu-xian-chang.md)
 * [个人防护](ge-ren-an-quan-fang-hu.md)
 * [评估伤患](ping-gu-shang-huan.md)
+* [寻求帮助](xun-qiu-bang-zhu.md)
 
 ## 常见急症
 
