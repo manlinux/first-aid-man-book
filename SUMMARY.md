@@ -10,6 +10,7 @@
 
 * [认识急救](second-question.md)
 * [掌握急救的必要性](ji-jiu-de-bi-yao-xing.md)
+* [施救职责](shi-jiu-zhi-ze.md)
 * [评估现场](ping-gu-xian-chang.md)
 * [个人防护](ge-ren-an-quan-fang-hu.md)
 * [评估伤患](ping-gu-shang-huan.md)
