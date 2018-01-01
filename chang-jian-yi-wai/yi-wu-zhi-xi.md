@@ -30,7 +30,8 @@
 
 ![](https://first-aid-man.gitbooks.io/pocket-book-abc/content/assets/composite-five-and-five-heimlich-8col.jpg)
 
-如果患者正处于妊娠晚期或体形庞大，可能无法完全抱住患者的腰部，此时应采取胸部冲击法。
+如果患者正处于妊娠晚期或体形庞大，  
+可能无法完全抱住患者的腰部，此时应采取胸部冲击法。
 
 将双臂放在患者锁骨下方，双手放在胸骨的下半部。
 
