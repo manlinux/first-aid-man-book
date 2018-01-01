@@ -19,7 +19,7 @@
 
 气道梗阻征象
 
-![](https://first-aid-man.gitbooks.io/pocket-book-abc/content/assets/choking-Medium-Small.jpg)
+![](/assets/choking-Medium-Small.jpg)
 
 如果你认为某人发生了气道梗阻，应先询问对方“喘不过气么？”  
 如果他点头，您就告诉他您要帮助他。
@@ -28,7 +28,7 @@
 如果异物未排出，再做5次腹部冲击（也可以重复进行腹部冲击），  
 反复进行直至异物排出或患者失去反应。
 
-![](https://first-aid-man.gitbooks.io/pocket-book-abc/content/assets/composite-five-and-five-heimlich-8col.jpg)
+![](/assets/11a_04.jpg)
 
 如果患者正处于妊娠晚期或体形庞大，  
 可能无法完全抱住患者的腰部，此时应采取胸部冲击法。
@@ -37,7 +37,9 @@
 
 向正后方用力拉手，冲击对方胸部。
 
-![](https://first-aid-man.gitbooks.io/pocket-book-abc/content/assets/11a_04.jpg)
+![](/assets/37e00002006d03617199.jpg)
+
+![](/assets/37d90001d7a1ad3424f3.jpg)
 
 如果患者是婴儿，不适用腹部冲击法，  
 应采取重复拍击后背和2跟手指按压胸部各5次，  
