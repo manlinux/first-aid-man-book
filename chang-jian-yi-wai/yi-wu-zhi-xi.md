@@ -15,9 +15,37 @@
 | 能够发声，能够大声咳嗽 | 轻度 | 站在旁边，让患者咳嗽 |
 | 不能呼吸，或咳嗽无声，无法讲话或发声，或出现气道梗阻征象 | 重度 | 快速行动，快速救助 |
 
+---
 
+气道梗阻征象
+
+![](https://first-aid-man.gitbooks.io/pocket-book-abc/content/assets/choking-Medium-Small.jpg)
+
+当患者出现严重的气道梗阻时，
+
+如果患者有反应，应用力拍打患者后背肩胛骨之间的部位5次，如果异物未排出，再做5次腹部冲击（也可以重复进行腹部冲击），反复进行直至异物排出或患者失去反应。
+
+![](https://first-aid-man.gitbooks.io/pocket-book-abc/content/assets/composite-five-and-five-heimlich-8col.jpg)
+
+如果患者正处于妊娠晚期或体形庞大，可能无法完全抱住患者的腰部，此时应采取胸部冲击法。
+
+将双臂放在患者锁骨下方，双手放在胸骨的下半部。
+
+向正后方用力拉手，冲击对方胸部。
+
+![](https://first-aid-man.gitbooks.io/pocket-book-abc/content/assets/11a_04.jpg)
+
+任何接受过冲击手法的人，都应该让他们去医院就医。
 
 ---
 
+如果患者没有反应，应立即寻求帮助并拨打120。
 
+确认患者是否需要实施CPR，如需要，应立即实施CPR。
+
+每按压30次后，打开气道。
+
+如果发现口腔中有任何梗阻物，请取出。
+
+持续实施CPR，直到对方能够讲话、移动、呼吸，或直到专业医疗急救人员赶到并接管患者。
 
