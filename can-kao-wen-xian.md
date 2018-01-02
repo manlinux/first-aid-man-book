@@ -15,3 +15,5 @@
 
 6.CPR & ECC Guidelines：[https://eccguidelines.heart.org/index.php/circulation/cpr-ecc-guidelines-2/](https://eccguidelines.heart.org/index.php/circulation/cpr-ecc-guidelines-2/)
 
+7.微信公众号：“急救科普人”，“急诊夜鹰”
+
