@@ -15,9 +15,11 @@
 
 6.CPR & ECC Guidelines：[https://eccguidelines.heart.org/index.php/circulation/cpr-ecc-guidelines-2/](https://eccguidelines.heart.org/index.php/circulation/cpr-ecc-guidelines-2/)
 
-7.微信公众号：“急救科普人”，“急诊夜鹰”
+7.UIA 应急医疗技术\(EMT-basic\)培训笔记
 
-8.UIA 应急医疗技术\(EMT-basic\)培训
+8.EMT Crash Course Book：http://www.rea.com/emt/
 
+9. Mayo Clinic：https://www.mayoclinic.org/
 
+10.微信公众号：“急救科普人”，“急诊夜鹰”
 
