@@ -15,7 +15,7 @@
 
 6.CPR & ECC Guidelines：[https://eccguidelines.heart.org/index.php/circulation/cpr-ecc-guidelines-2/](https://eccguidelines.heart.org/index.php/circulation/cpr-ecc-guidelines-2/)
 
-7.UIA 应急医疗技术\(EMT-basic\)培训笔记
+7.UIA EMT \(应急医疗技术，EMT-basic\)培训笔记
 
 8.EMT Crash Course Book：[http://www.rea.com/emt/](http://www.rea.com/emt/)
 
