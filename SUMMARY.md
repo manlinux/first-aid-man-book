@@ -29,6 +29,7 @@
 
 * [头部损伤](chang-jian-sun-shang/tou-bu-sun-shang.md)
 * [鼻子出血](chang-jian-sun-shang/bi-zi-chu-xie.md)
+* [眼部损伤](chang-jian-sun-shang/yan-bu-sun-shang.md)
 
 ## 常见意外
 
