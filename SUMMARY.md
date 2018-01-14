@@ -36,7 +36,7 @@
 * [动物咬伤](chang-jian-yi-wai/dong-wu-yao-shang.md)
 * [昆虫叮咬](chang-jian-yi-wai/kun-chong-ding-yao.md)
 * [灼伤](chang-jian-yi-wai/zhuo-shang.md)
-* [异物窒息](chang-jian-yi-wai/yi-wu-zhi-xi.md)
+* [气道异物梗阻](chang-jian-yi-wai/yi-wu-zhi-xi.md)
 * [鱼刺卡喉](chang-jian-yi-wai/yu-ci-qia-hou.md)
 * [溺水](chang-jian-yi-wai/ni-shui.md)
 * [冻伤](chang-jian-yi-wai/dong-shang.md)
