@@ -25,7 +25,7 @@
 ···
 
 **3.北京市院前医疗急救服务条例**  
-http://zhengce.beijing.gov.cn/library/192/33/50/438650/78776/index.html
+[http://zhengce.beijing.gov.cn/library/192/33/50/438650/78776/index.html](http://zhengce.beijing.gov.cn/library/192/33/50/438650/78776/index.html)
 
 鼓励具备医疗急救专业技能的个人在急救人员到达前，对急、危、重患者实施紧急现场救护，其紧急现场救护行为受法律保护。
 
@@ -34,13 +34,11 @@ http://zhengce.beijing.gov.cn/library/192/33/50/438650/78776/index.html
 ···
 
 4**.杭州院前医疗急救服务条例**  
-http://zhengce.beijing.gov.cn/library/192/33/50/438650/78776/index.html
+http://z.hangzhou.com.cn/2014/2014rdsjc/content/2014-04/17/content\_5245819\_3.htm
 
 鼓励经过培训取得合格证书、具备急救专业技能的公民对急、危、重伤病员按照操作规范实施紧急现场救护，其紧急现场救护行为受法律保护，不承担法律责任。紧急现场救护中作出突出贡献的，卫生计生行政主管部门可以给予其表彰奖励。
 
 ···
-
-
 
 ···
 
