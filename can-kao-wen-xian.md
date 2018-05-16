@@ -27,6 +27,9 @@
 [http://www.who.int/snakebites/en/](http://www.who.int/snakebites/en/)  
 [http://apps.who.int/iris/handle/10665/249547](http://apps.who.int/iris/handle/10665/249547)
 
+11.狂犬病预防控制技术指南（2016 版） - 中国疾病预防控制中心  
+http://www.chinacdc.cn/zxdt/201602/W020160421413390729268.pdf
+
 11.St John Ambulance：[http://www.sja.org.uk/sja/training-courses.aspx](http://www.sja.org.uk/sja/training-courses.aspx)
 
 12.微信公众号：“急救科普人”，“急诊夜鹰”
