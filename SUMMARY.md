@@ -35,6 +35,7 @@
 
 * [触电](chang-jian-yi-wai/hong-dian.md)
 * [动物咬伤](chang-jian-yi-wai/dong-wu-yao-shang.md)
+  * [蛇咬伤](chang-jian-yi-wai/dong-wu-yao-shang/she-yao-shang.md)
 * [昆虫叮咬](chang-jian-yi-wai/kun-chong-ding-yao.md)
 * [灼伤](chang-jian-yi-wai/zhuo-shang.md)
 * [气道异物梗阻](chang-jian-yi-wai/yi-wu-zhi-xi.md)
