@@ -43,7 +43,7 @@
 * [鱼刺卡喉](chang-jian-yi-wai/yu-ci-qia-hou.md)
 * [溺水](chang-jian-yi-wai/ni-shui.md)
 * [低温急症](chang-jian-yi-wai/di-wen-ji-zheng.md)
-* [高温急症](chang-jian-yi-wai/gao-wen-ji-zheng.md)
+* [冻伤](chang-jian-yi-wai/dong-shang.md)
 * [冻伤](chang-jian-yi-wai/dong-shang.md)
 * [失温](chang-jian-yi-wai/shi-wen.md)
 * [交通意外](chang-jian-yi-wai/jiao-tong-yi-wai.md)
