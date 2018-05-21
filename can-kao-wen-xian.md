@@ -32,7 +32,9 @@
 
 12.St John Ambulance：[http://www.sja.org.uk/sja/training-courses.aspx](http://www.sja.org.uk/sja/training-courses.aspx)
 
-13.默沙东诊疗手册 https://www.msdmanuals.cn/
+13.默沙东诊疗手册 [https://www.msdmanuals.cn/](https://www.msdmanuals.cn/)
 
 14.微信公众号：“急救科普人”，“急诊夜鹰”
+
+
 
