@@ -7,5 +7,12 @@
 
 [http://www.redcross.org.cn/hhzh/zh/sy/zl/app/](http://www.redcross.org.cn/hhzh/zh/sy/zl/app/)
 
+2. 默沙东诊疗中文大众版  
+   默沙东诊疗中文大众版- Apps on Google Play  
+https://play.google.com/store/apps/details?id=com.msd.consumerChinese&hl=en\_US&rdid=com.msd.consumerChinese&pli=1  
+   默沙东诊疗中文大众版on the App Store  
+App Store 搜索 “默沙东诊疗中文大众版”
+
+  
 ···
 
