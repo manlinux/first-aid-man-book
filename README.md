@@ -18,9 +18,10 @@
 
 本电子书目前还在完善更新中，如有意见和建议，欢迎交流。
 
-本手册最新内容，请访问：[https://first-aid-man.gitbooks.io/first-aid-guideline-in-hands](https://first-aid-man.gitbooks.io/first-aid-guideline-in-hands)
+本手册最新内容，请访问：  
+[https://first-aid-man.gitbooks.io/first-aid-guideline-in-hands](https://first-aid-man.gitbooks.io/first-aid-guideline-in-hands)
 
-[https://fist-aid.gitbook.io/first-aid-guideline-in-hands/](https://fist-aid.gitbook.io/first-aid-guideline-in-hands/)
+[https://fist-aid.gitbook.io/first-aid-guideline-in-hands](https://fist-aid.gitbook.io/first-aid-guideline-in-hands/)
 
 任何网络文字内容都无法替代正式的急救培训和专业医生的医疗服务。
 
