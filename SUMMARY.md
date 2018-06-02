@@ -24,6 +24,7 @@
 * [心脏病发作](chang-jian-ji-zheng/xin-zang-bing-fa-zuo.md)
 * [癫痫发作](chang-jian-ji-zheng/dian-xian-fa-zuo.md)
 * [哮喘发作](chang-jian-ji-zheng/xiao-chuan-fa-zuo.md)
+* [晕厥](chang-jian-ji-zheng/yun-jue.md)
 
 ## 常见损伤
 
