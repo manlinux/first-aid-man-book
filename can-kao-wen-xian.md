@@ -40,3 +40,5 @@
 
 16.微信公众号："急救科普人","急诊夜鹰”,"独轮车上的博导","疫苗科普（kqbymkp）","丁香医生","小大夫漫画"
 
+17.癫痫与抽搐 https://www.epilepsy.com/learn/about-epilepsy-basics/what-happens-during-seizure
+
