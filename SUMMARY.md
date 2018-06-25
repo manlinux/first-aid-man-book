@@ -71,6 +71,7 @@
 ## 急救资源
 
 * [毒物控制](ji-jiu-zi-yuan/du-wu-kong-zhi.md)
+* [蛇毒](ji-jiu-zi-yuan/she-du.md)
 
 ## 教育资源
 
