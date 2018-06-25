@@ -68,6 +68,10 @@
 * [鱼刺卡喉无需腹部冲击](ji-jiu-yao-yan/yu-ci-qia-hou-wu-xu-fu-bu-chong-ji.md)
 * [心脏病突发不用罚站](ji-jiu-yao-yan/xin-zang-bing-tu-fa-bu-yong-fa-zhan.md)
 
+## 急救资源
+
+* [毒物控制](ji-jiu-zi-yuan/du-wu-kong-zhi.md)
+
 ## 教育资源
 
 * [急救软件](jiao-yu-zi-yuan/ji-jiu-ruan-jian.md)
