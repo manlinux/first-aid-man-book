@@ -31,6 +31,7 @@
 * [头部损伤](chang-jian-sun-shang/tou-bu-sun-shang.md)
 * [鼻子出血](chang-jian-sun-shang/bi-zi-chu-xie.md)
 * [眼部损伤](chang-jian-sun-shang/yan-bu-sun-shang.md)
+* [耳内、眼内异物处理](chang-jian-sun-shang/er-nei-3001-yan-nei-yi-wu-chu-li.md)
 
 ## 常见意外
 
