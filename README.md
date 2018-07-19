@@ -21,11 +21,9 @@
 本手册最新内容，请访问：  
 [https://first-aid-man.gitbooks.io/first-aid-guideline-in-hands](https://first-aid-man.gitbooks.io/first-aid-guideline-in-hands)
 
-[https://fist-aid.gitbook.io/first-aid-guideline-in-hands](https://fist-aid.gitbook.io/first-aid-guideline-in-hands/)
+https://first-aid.gitbook.io/first-aid-in-hands/
 
 任何网络文字内容都无法替代正式的急救培训和专业医生的医疗服务。
 
 急救手册内容仅供应急状况下使用，不可作为疾病和损伤的医疗参考。
-
-
 
