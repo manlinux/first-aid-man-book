@@ -12,7 +12,7 @@
 
 爱自己，学急救，为家人，为身边人
 
-赤脚急救侠（龙千羽）·微信公众号（childinside）![](/assets/qrcode_longgege.jpg)
+赤脚急救侠（龙千羽）·微信公众号（childinside）![](/assets/个人公众号-龙千羽.png)
 
 赞赏急救侠，支持本手册的维护工作：![](/assets/dashang_long.jpg)
 
