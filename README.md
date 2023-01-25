@@ -4,15 +4,17 @@
 
 写给我的亲人朋友们，
 
-一本靠谱的急救知识手册，
+一本靠谱的公众急救知识手册，
 
 每个珍爱生命的人都值得拥有。
 
+欢迎分享给你爱的人，分享给那些关注家人生命安全的朋友。
+
 爱自己，学急救，为家人，为身边人
 
-赤脚急救侠·微信公众号（childinside）![](/assets/qrcode_chijiaopao.jpg)
+赤脚急救侠（龙千羽）·微信公众号（childinside）![](/assets/qrcode_longgege.jpg)
 
-赞赏急救侠，支持本手册的维护工作：![](/assets/dashang_20171216221207.jpg)
+赞赏急救侠，支持本手册的维护工作：![](/assets/dashang_long.jpg)
 
 ---
 
