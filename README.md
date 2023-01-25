@@ -14,14 +14,15 @@
 
 赤脚急救侠（龙千羽）·微信公众号（childinside）![](/assets/个人公众号-龙千羽.png)
 
-赞赏急救侠，支持本手册的维护工作：![](/assets/dashang_long.jpg)
+赞赏急救侠(龙葛格)，支持本手册的维护工作：![](/assets/微信图片_20230125165447.jpg)
 
 ---
 
 本电子书目前还在完善更新中，如有意见和建议，欢迎交流。
 
 本手册最新内容，请访问：  
-[https://first-aid-man.gitbooks.io/first-aid-guideline-in-hands](https://first-aid-man.gitbooks.io/first-aid-guideline-in-hands)
+
+https://github.com/manlinux/first-aid-man-book
 
 https://first-aid.gitbook.io/first-aid-in-hands/
 
