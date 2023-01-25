@@ -18,11 +18,18 @@
 
 赞赏急救侠(龙葛格)，支持本手册的维护工作：
 
-<div align=center><img width="150" height="150" src="https://github.com/manlinux/first-aid-man-book/blob/master/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230125165447.jpg"/></div>
+微信打赏
+
+<div align=left><img width="150" height="150" src="https://github.com/manlinux/first-aid-man-book/blob/master/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230125165447.jpg"/></div>
+
+支付宝打赏
+
+<div align=left><img width="150" height="150" src="https://github.com/manlinux/first-aid-man-book/blob/master/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230125165447.jpg"/></div>
+
 
 ---
 
-本电子书目前还在完善更新中，如有意见和建议，欢迎交流。
+本电子书目前还在完善更新中，如有意见和建议，欢迎交流（微信 yitongshouhu）。
 
 本手册最新内容，请访问：  
 
