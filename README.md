@@ -33,8 +33,6 @@
 
 本手册最新内容，请访问：  
 
-https://github.com/manlinux/first-aid-man-book
-
 https://first-aid.gitbook.io/first-aid-in-hands/
 
 任何网络文字内容都无法替代正式的急救培训和专业医生的医疗服务。
