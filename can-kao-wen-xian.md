@@ -2,18 +2,18 @@
 
 ---
 
-1.《美国心脏协会·心脏救护员 学员手册》（2017年版本）
+1.《美国心脏协会·心脏救护员 学员手册》
 
-《美国心脏协会·心脏救护员 导师手册》（2017年版本）
+《美国心脏协会·心脏救护员 导师手册》
 
-2.《红十字·救护师资教程》（2016版）
+2.《红十字·救护师资教程》
 
-3.《红十字急救·掌上学堂APP》:[http://www.redcross.org.cn/hhzh/zh/sy/zl/app/](http://www.redcross.org.cn/hhzh/zh/sy/zl/app/)
+3.《红十字急救·掌上学堂APP》
 
-4.International First Aid and Resuscitation Guidelines 2016  
-[http://www.ifrc.org/Global/Publications/Health/First-Aid-2016-Guidelines\_EN.pdf](http://www.ifrc.org/Global/Publications/Health/First-Aid-2016-Guidelines_EN.pdf)
+4.International First Aid Resuscitation and Education Guidelines 2020   
 
-5.ERC Guidelines for resuscitation 2015：[https://cprguidelines.eu/](https://cprguidelines.eu/)
+
+5.ERC Guidelines for resuscitation ：[https://cprguidelines.eu/](https://cprguidelines.eu/)
 
 6.CPR & ECC Guidelines：[https://eccguidelines.heart.org/index.php/circulation/cpr-ecc-guidelines-2/](https://eccguidelines.heart.org/index.php/circulation/cpr-ecc-guidelines-2/)
 
